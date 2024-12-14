@@ -1,6 +1,6 @@
 # day03
 
-![Multistage](https://github.com/RvKmR-WaGh/k8schallange/blob/main/day3/multistage.png)
+![Multistage](https://github.com/RvKmR-WaGh/k8schallange/blob/main/day3/multistage.png "Multistage Dockerfile")
 
-![Traditional](https://github.com/RvKmR-WaGh/k8schallange/blob/main/day3/trad.png)
+![Traditional](https://github.com/RvKmR-WaGh/k8schallange/blob/main/day3/trad.png "Traditional Dockerfile")
 
