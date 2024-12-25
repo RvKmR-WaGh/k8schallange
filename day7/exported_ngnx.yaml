@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  creationTimestamp: "2024-12-25T10:32:16Z"
+  labels:
+    run: ngnx
+  name: exported-ngnx
+  namespace: default
+  resourceVersion: "246825"
+  uid: c431750f-1d79-4b76-a8d6-7c2562d95f20
+spec:
+  containers:
+  - image: nginx:latest
+    imagePullPolicy: Always
+    name: exported-ngnx
+
