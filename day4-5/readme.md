@@ -21,4 +21,4 @@
   9. api server write new cluster state back to etcd
   10. api server respond to user with pod creation
 
-
+![Request flow](https://github.com/RvKmR-WaGh/k8schallange/blob/main/day4-5/diagram-export-25-12-2024-3_30_22-pm.png)
