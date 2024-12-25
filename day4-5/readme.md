@@ -1,11 +1,11 @@
-1. **Task Details** ☕️
+**Task Details** ☕️
 - Kubernet components 
-  A. Control Plane:
+  1. Control Plane:
     a. etcd
     b. api server
     c. Schedular
     d. Controller Manger
-  B. Worker Node
+  2. Worker Node
     a. Kubelet
     b. KubeProxy(K-Porxy)
     c. Pods
